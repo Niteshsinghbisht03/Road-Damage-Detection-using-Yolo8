@@ -1,0 +1,8 @@
+[server]
+enableXsrfProtection = false
+ 
+[runner]
+allowUnsafeHTMLInMarkdown = true
+ 
+[theme]
+base = "dark"
