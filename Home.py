@@ -39,7 +39,7 @@ st.markdown("""
     font-family:'Bebas Neue',sans-serif; font-size:clamp(3.5rem,8vw,7rem);
     letter-spacing:6px; line-height:0.92; color:#e8edf5; margin-bottom:1.2rem;
   ">
-    ROAD DAMAGE<br>
+    DAMAGED ROAD <br>
     <span style="
       -webkit-text-stroke: 1px #2a3f6b; color: transparent;
       font-size:clamp(3rem,6vw,5.5rem);
